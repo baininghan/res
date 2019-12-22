@@ -3,7 +3,7 @@
 ## 目录
 - 后端
 - 前端
-    - (ES6)[https://es6.ruanyifeng.com/]
+    - [ECMAScript 6 入门](https://es6.ruanyifeng.com/)
 
 ## 规划
 
